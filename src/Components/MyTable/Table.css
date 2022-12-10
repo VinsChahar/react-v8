@@ -1,0 +1,15 @@
+.table-container {
+    border: 2px solid forestgreen;
+    width: 800px;
+    height: 200px;
+  }
+    
+  .th {
+    border-bottom: 2px solid black;
+    text-align: center;
+    cursor: pointer;
+  }
+    
+  .td {
+    text-align: center;
+  }

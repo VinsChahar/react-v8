@@ -1,0 +1,23 @@
+.btn-container {
+    display: flex;
+    padding: .5rem;
+    width: 20rem;
+    justify-content: space-evenly;
+    align-items: center;
+    background: #CCC;
+    border: 1px solid #000;
+    border-radius: 10rem;
+}
+
+.text-container {
+    flex-grow: 1;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.h-text, .b-text{
+    flex-grow: 1;
+    font-size: medium;
+    font-weight: 500;
+}
